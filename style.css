@@ -1,0 +1,1310 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+.container {
+    background: #FFFFFF;
+  }
+  .container .line-1 {
+    position: absolute;
+    top: 1619px;
+    width: 1440px;
+    height: 0%;
+    border: 1px solid #D9D9D9;
+  }
+  .container .line-2 {
+    position: absolute;
+    top: 2211px;
+    width: 1440px;
+    height: 0%;
+    border: 1px solid #D9D9D9;
+  }
+  .container .integrations {
+    position: absolute;
+    left: 590px;
+    top: 1695px;
+    width: 229px;
+    height: 386px;
+  }
+  .container .integrations .google-sheets {
+    position: absolute;
+    left: 0px;
+    top: 81px;
+    width: 65.5%;
+    height: 6.48%;
+    color: #686868;
+    font-family: "Sora", sans-serif;
+    font-size: 20px;
+    line-height: normal;
+    font-weight: 400;
+  }
+  .container .integrations .zapier {
+    position: absolute;
+    top: 121px;
+    left: 0px;
+    width: 28.38%;
+    height: 6.48%;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .google-analytics {
+    position: absolute;
+    top: 161px;
+    left: 0px;
+    width: 75.89%;
+    height: 6.48%;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .mailchimp {
+    position: absolute;
+    top: 201px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .hubspot {
+    position: absolute;
+    top: 241px;
+    left: 0px;
+    width: 40.61%;
+    height: 6.48%;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+  }
+  .container .integrations .facebook-pixel {
+    position: absolute;
+    top: 281px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .airtable {
+    position: absolute;
+    top: 321px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .all-apps--integrations {
+    position: absolute;
+    top: 361px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .integrations .integrations-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 71.18%;
+    height: 6.48%;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .container .resources {
+    position: absolute;
+    left: 852px;
+    top: 1695px;
+    width: 174px;
+    height: 426px;
+  }
+  .container .resources .blog {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .help-center {
+    position: absolute;
+    top: 121px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .community {
+    position: absolute;
+    top: 161px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .videos {
+    position: absolute;
+    top: 201px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .faqs {
+    position: absolute;
+    top: 241px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .affiliate-program {
+    position: absolute;
+    top: 281px;
+    left: 0px;
+    color: #686868; 
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .partner-with-us {
+    position: absolute;
+    top: 321px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .system-status {
+    position: absolute;
+    top: 361px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .resources .developers-api {
+    position: absolute;
+    top: 401px;
+    left: 0px;
+    color: #686868;
+    white-space: nowrap;
+    font-family: "Sora";
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+  }
+  .container .resources .resources-1 {
+    position: absolute;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .container .resources .keyboard-arrow-down {
+    position: absolute;
+    top: 324px;
+    left: 152px;
+    width: 20px;
+    height: 20px;
+
+  }
+  .container .templates {
+    position: absolute;
+    top: 1695px;
+    left: 350px;
+    width: 212px;
+    height: 226px;
+  }
+  .container .templates .popular-templates {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .templates .recent-templates {
+    position: absolute;
+    top: 121px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .templates .popular-categories {
+    position: absolute;
+    top: 161px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .templates .recent-categories {
+    position: absolute;
+    top: 201px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .templates .templates-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .container .templates .keyboard-arrow-down-2 {
+    position: absolute;
+    top: 204px;
+    left: 185px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .templates .keyboard-arrow-down-4 {
+    position: absolute;
+    top: 164px;
+    left: 192px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .templates .keyboard-arrow-down-6 {
+    position: absolute;
+    top: 124px;
+    left: 179px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .templates .keyboard-arrow-down-8 {
+    position: absolute;
+    top: 84px;
+    left: 185px;
+    width: 20px;
+    height: 2px;
+  }
+  .container .header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 92px;
+  }
+  .container .header .rectangle-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 92px;
+    background: #2E2E2E;
+  }
+  .container .header .typeform {
+    position: absolute;
+    top: 27px;
+    left: 0px;
+    width: 168px;
+    height: 38px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 30px;
+    font-weight: 600;
+    text-align: right;
+  }
+  .container .header .sign-up {
+    position: absolute;
+    right: 23px;
+    top: 21px;
+    width: 88px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    opacity: 1;
+    background: #FFFFFF;
+  }
+  .container .header .sign-up .sign-up-1 {
+    position: static;
+    font-family: "Sora";
+    font-weight: 600;
+    text-align: center;
+    color: #000000;
+  }
+  .container .header .log-in {
+    position: absolute;
+    top: 21px;
+    left: 1224px;
+    width: 89px;
+    height: 48px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2E2E2E;
+    border: 1px solid #FFFFFF;
+  }
+  .container .header .log-in .log-in-1 {
+    width: 63px;
+    height: 20px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .container .header .products {
+    position: absolute;
+    top: 35px;
+    left: 310px;
+    width: 70px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .templates-2 {
+    position: absolute;
+    top: 35px;
+    left: 417.5px;
+    color: #FFFFFF;
+    width: 81px;
+    height: 19px;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .integrations-2 {
+    position: absolute;
+    top: 35px;
+    left: 535px;
+    width: 95px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .resources-2 {
+    position: absolute;
+    top: 35px;
+    left: 667px;
+    width: 81px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .pricing {
+    position: absolute;
+    top: 35px;
+    left: 786px;
+    width: 55px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .enterprise {
+    position: absolute;
+    top: 35px;
+    left: 879px;
+    width: 80px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .support {
+    position: absolute;
+    top: 35px;
+    left: 997px;
+    width: 64px;
+    height: 19px;
+    color: #FFFFFF;
+    font-family: "Sora";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .container .header .keyboard-arrow-down-10 {
+    position: absolute;
+    top: 36px;
+    left: 381px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-12 {
+    position: absolute;
+    top: 36px;
+    left: 499px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-14 {
+    position: absolute;
+    top: 36px;
+    left: 631px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-16 {
+    position: absolute;
+    top: 36px;
+    left: 749px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-18 {
+    position: absolute;
+    top: 36px;
+    left: 842px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-20 {
+    position: absolute;
+    top: 36px;
+    left: 960px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .header .keyboard-arrow-down-22 {
+    position: absolute;
+    top: 36px;
+    left: 1062px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .sorry-we-couldnt-find-that-page {
+    position: absolute;
+    left: 381.5px;
+    top: 192px;
+    width: 677px;
+    height: 55px;
+    color: #000000;
+    font-family: "Yanone Kaffeesatz";
+    font-size: 55px;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    text-align: center;
+  }
+  .container .were-you-looking-for-any-of-these {
+    position: absolute;
+    top: 326px;
+    left: 513px;
+    width: 464px;
+    height: 34px;
+    color: #686868;
+    font-family: "Arial";
+    font-size: 30px;
+    text-align: center;
+  }
+  .container .back-to-typeformcom {
+    position: absolute;
+    width: 256px;
+    height: 29px;
+    top: 563px;
+    left: 360px;
+    color: #686868;
+    font-family: "Arial";
+    font-size: 25px;
+  }
+  .container .back-to-typeformcom > div {
+    width: 100%;
+  }
+  .container .back-to-typeformcom > div span:nth-child(2) {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  .container .back-to-typeformcom-1 {
+    position: absolute;
+    top: 1361px;
+    left: 360px;
+    width: 256px;
+    height: 29px;
+    color: #686868;
+    font-family: "Arial";
+    font-size: 25px;
+  }
+  .container .back-to-typeformcom-1 > div {
+    width: 100%;
+  }
+  .container .back-to-typeformcom-1 > div span:nth-child(2) {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  .container .text-1 {
+    position: absolute;
+    top: 333px;
+    left: 488px;
+    width: 15px;
+    height: 20px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 17px;
+    text-align: center;
+  }
+  .container .ok-maybe-try-one-of-our-popular-pages {
+    position: absolute;
+    top: 955px;
+    left: 480px;
+    width: 529px;
+    height: 34px;
+    color: #686868;
+    font-family: "Arial";
+    font-size: 30px;
+  }
+  .container .text-2 {
+    position: absolute;
+    top: 962px;
+    left: 455px;
+    width: 15px;
+    height: 20px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 17px;
+    text-align: center;
+  }
+  .container .mid-bar-2 {
+    position: absolute;
+    top: 1029px;
+    left: 342px;
+    width: 756px;
+    height: 242px;
+
+  }
+  .container .mid-bar-2 .rectangle-3 {
+    position: absolute;
+    width: 756px;
+    height: 42px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-4 {
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+  }
+  .container .mid-bar-2 .frame-4 .rectangle-11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-4 .a {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 16px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .container .mid-bar-2 .https-wwwtypeformcom-blog-guides-create-better-typeforms {
+    position: absolute;
+    top: 12px;
+    left: 45px;
+    width: 472px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    letter-spacing: 0.06em;
+  }
+  .container .mid-bar-2 .rectangle-4 {
+    position: absolute;
+    top: 50px;
+    width: 756px;
+    height: 42px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-5 {
+    position: absolute;
+    top: 58px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+  }
+  .container .mid-bar-2 .frame-5 .rectangle-12 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-5 .b {
+    position: absolute;
+    width: 16px;
+    height: 17px;
+    top: 4px;
+    left: 5px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .container .mid-bar-2 .https-wwwtypeformcom-blog-guides-create-better-typeforms-1 {
+    position: absolute;
+    top: 62px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    letter-spacing: 0.06em;
+  }
+  .container .mid-bar-2 .rectangle-5 {
+    position: absolute;
+    top: 100px;
+    width: 756px;
+    height: 42px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-6 {
+    position: absolute;
+    top: 108px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+  }
+  .container .mid-bar-2 .frame-6 .rectangle-13 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-6 .c {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 16px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .container .mid-bar-2 .https-wwwtypeformcom-blog-guides-create-better-typeforms-2 {
+    position: absolute;
+    top: 112px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    letter-spacing: 0.06em;
+  }
+  .container .mid-bar-2 .rectangle-6 {
+    position: absolute;
+    top: 61.98%;
+    left: calc(100% - 756px + 0px);
+    bottom: 20.66%;
+    width: 756px;
+    height: calc(100% - 61.98% - 20.66%);
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-7 {
+    position: absolute;
+    top: 158px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+  }
+  .container .mid-bar-2 .frame-7 .rectangle-14 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-7 .d {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 16px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .container .mid-bar-2 .https-wwwtypeformcom-blog-guides-create-better-typeforms-3 {
+    position: absolute;
+    top: 162px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    letter-spacing: 0.06em;
+  }
+  .container .mid-bar-2 .rectangle-7 {
+    position: absolute;
+    width: 756px;
+    height: 42px;
+    top: 200px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-8 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 208px;
+    left: 10px;
+  }
+  .container .mid-bar-2 .frame-8 .rectangle-15 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-2 .frame-8 .e {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 16px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .container .mid-bar-2 .https-wwwtypeformcom-blog-guides-create-better-typeforms-4 {
+    position: absolute;
+    top: 212px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    letter-spacing: 0.06em;
+  }
+  .container .mid-bar-1 {
+    position: absolute;
+    top: 398px;
+    left: 342px;
+    width: 756px;
+    height: 92px;
+  }
+  .container .mid-bar-1 .rectangle-8 {
+    position: absolute;
+    width: 756px;
+    height: 42px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-1 .frame-9 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 10px;
+  }
+  .container .mid-bar-1 .frame-9 .rectangle-16 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-1 .frame-9 .a-1 {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 16px;
+    height: 17px;
+    color: #909090;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .container .mid-bar-1 .news {
+    position: absolute;
+    top: 12px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+  }
+  .container .mid-bar-1 .rectangle-9 {
+    position: absolute;
+    width: 756px;
+    height: 42px;
+    top: 50px;
+    border-radius: 4px;
+    background: #F0F0F0;
+    border: 2px solid #C1C1C1;
+  }
+  .container .mid-bar-1 .rectangle-17 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 58px;
+    left: 10px;
+    border-radius: 4px;
+    border: 1px solid #C1C1C1;
+  }
+  .container .mid-bar-1 .b-1 {
+    position: absolute;
+    width: 16px;
+    height: 17px;
+    top: 62px;
+    left: 15px;
+    font-weight: bold;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+    text-align: center;
+  }
+  .container .mid-bar-1 .not-this-option {
+    position: absolute;
+    top: 62px;
+    left: 45px;
+    color: #909090;
+    font-family: "Arial";
+    font-size: 15px;
+  }
+  .container .get-to-know-us {
+    position: absolute;
+    width: 235px;
+    height: 431px;
+    top: 1695px;
+    left: 1088px;
+  }
+  .container .get-to-know-us .about-us {
+    position: absolute;
+    left: 0px;
+    top: 81px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .careers {
+    position: absolute;
+    top: 121px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .contact-us {
+    position: absolute;
+    top: 161px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .news-1 {
+    position: absolute;
+    top: 201px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .terms--conditions {
+    position: absolute;
+    top: 241px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .typeform-startups {
+    position: absolute;
+    top: 281px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .typeformes {
+    position: absolute;
+    top: 321px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .newsletter {
+    position: absolute;
+    top: 361px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .get-to-know-us .get-to-know-us-1 {
+    position: absolute;
+    width: 184px;
+    height: 25px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .container .get-to-know-us .ellipse-1 {
+    position: absolute;
+    top: 396px;
+    left: 0px;
+  }
+  .container .get-to-know-us .ellipse-2 {
+    position: absolute;
+    top: 396px;
+    left: 50px;
+  }
+  .container .get-to-know-us .ellipse-3 {
+    position: absolute;
+    top: 396px;
+    left: 100px;
+  }
+  .container .get-to-know-us .ellipse-4 {
+    position: absolute;
+    top: 396px;
+    left: 150px;
+  }
+  .container .get-to-know-us .ellipse-5 {
+    position: absolute;
+    top: 396px;
+    left: 200px;
+  }
+  .container .get-to-know-us .linkedin {
+    position: absolute;
+    top: 406px;
+    left: 210px;
+    width: 15px;
+    height: 15px;
+  }
+  .container .get-to-know-us .youtube {
+    position: absolute;
+    top: 404px;
+    left: 158px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .get-to-know-us .instagram {
+    position: absolute;
+    top: 404px;
+    left: 110px;
+    width: 15px;
+    height: 15px;
+  }
+  .container .get-to-know-us .twitter {
+    position: absolute;
+    top: 404px;
+    left: 57px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .get-to-know-us .facebook-f {
+    position: absolute;
+    top: 404px;
+    left: 7px;
+    width: 20px;
+    height: 20px;
+  }
+  /*------------------- Next Time ------------------ */
+  .container .footer {
+    position: absolute;
+    top: 2252px;
+    left: 62px;
+    width: 1303px;
+    height: 20px;
+  }
+  .container .footer .with-love-form-barcelona {
+    position: absolute;
+    top: 15%;
+    left: 1.77%;
+    right: 86.19%;
+    bottom: 10%;
+    width: calc(100% - 1.77% - 86.19%);
+    height: calc(100% - 15% - 10%);
+    color: #686868;
+    white-space: nowrap;
+    font-family: "Sora";
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 100;
+  }
+  .container .footer .english {
+    position: absolute;
+    top: 5%;
+    left: 24.02%;
+    right: 71.99%;
+    bottom: 5%;
+    width: calc(100% - 24.02% - 71.99%);
+    height: calc(100% - 5% - 5%);
+    color: #686868;
+    white-space: nowrap;
+    font-family: "Sora";
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+  .container .footer .typeform-1 {
+    position: absolute;
+    top: 5%;
+    left: 94.7%;
+    right: 0%;
+    bottom: 5%;
+    width: calc(100% - 94.7% - 0%);
+    height: calc(100% - 5% - 5%);
+    color: #686868;
+    white-space: nowrap;
+    font-family: "Sora";
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+  .container .footer .check-our-cookie-policy-to-delete-cookies {
+    position: absolute;
+    top: 1px;
+    left: calc(100% - 1303px + 670px);
+    width: 304px;
+    height: 18px;
+    color: #686868;
+    white-space: nowrap;
+    text-decoration: underline;
+    font-family: "Sora";
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+  .container .footer .cookie-settings {
+    position: absolute;
+    top: 1px;
+    left: calc(100% - 1303px + 528px);
+    width: 115px;
+    height: 18px;
+    color: #686868;
+    white-space: nowrap;
+    text-decoration: underline;
+    font-family: "Sora";
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+  .container .footer .globe-uk {
+    position: absolute;
+    top: 0%;
+    left: 22.1%;
+    right: 76.36%;
+    bottom: 0%;
+    width: calc(100% - 22.1% - 76.36%);
+    height: calc(100% - 0% - 0%);
+  }
+  .container .footer .globe-uk .bounding-box-12 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    background: #D9D9D9;
+  }
+  .container .footer .globe-uk .globe-uk-1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    right: 5%;
+    bottom: 5%;
+  }
+  .container .footer .distance {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 98.47%;
+    bottom: 0%;
+    width: calc(100% - 0% - 98.47%);
+    height: calc(100% - 0% - 0%);
+  }
+  .container .footer .distance .bounding-box-13 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    background: #D9D9D9;
+  }
+  .container .footer .distance .distance-1 {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    right: 20%;
+    bottom: 5%;
+  }
+  .container .footer .line-3 {
+    position: absolute;
+    top: 60%;
+    left: 49.88%;
+    right: 49.12%;
+    bottom: 40%;
+    width: calc(100% - 49.88% - 49.12%);
+    height: calc(100% - 60% - 40%);
+    border: 1px solid #686868;
+  }
+  .container .footer .vector {
+    position: absolute;
+    top: 25%;
+    left: 93.71%;
+    right: 5.53%;
+    bottom: 25%;
+  }
+  .container .product {
+    position: absolute;
+    top: 1695px;
+    left: 145px;
+    width: 165px;
+    height: 261px;
+  }
+  .container .product .product-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .container .product .videoask {
+    position: absolute;
+    top: 240px;
+    left: 30px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .container .product .pricing-1 {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .product .enterprise-1 {
+    position: absolute;
+    top: 121px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .product .lead-generation {
+    position: absolute;
+    top: 161px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .product .chat {
+    position: absolute;
+    top: 201px;
+    left: 0px;
+    color: #686868;
+    font-family: "Sora";
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .container .product .keyboard-arrow-down-13 {
+    position: absolute;
+    top: 124px;
+    left: 105px;
+    width: 20px;
+    height: 20px;
+  }
+  .container .product .subtract {
+    position: absolute;
+    top: 249px;
+    left: 0px;
+    width: 24px;
+    height: 12px;
+  }
+  .container .product .elipse-7 {
+    position: absolute;
+    top: 242px;
+    left: 6px;
+    width: 5px;
+    height: 5px;
+  }
+  .container .product .elipse-8 {
+    position: absolute;
+    top: 242px;
+    left: 14px;
+    width: 5px;
+    height: 5px;
+  }
+  .container .up-down-2 {
+    position: absolute;
+    top: 1350px;
+    left: 1009px;
+    width: 78px;
+    height: 40px;
+  }
+  .container .up-down-1 {
+    position: absolute;
+    top: 552px;
+    left: 1009px;
+    width: 78px;
+    height: 40px;
+  }
